@@ -1,37 +1,47 @@
-## Welcome to Thomas Kottas Github Page
+Thomas Kottas
+Alexandrou Soutsou 3, Kolonaki, Athens, 10671
+sdi1200071@di.uoa.gr | LinkedIn: Thomas Kottas
+telephone: 0030 6948858030
+Birthday: 15/09/94
 
-You can use the [editor on GitHub](https://github.com/thominho/thomask.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EDUCATION
+9/2012-9/2017	NATIONAL & KAPODISTRIAN UNIVERSITY OF ATHENS   	Athens, Greece    	 
+	                   B.Sc. in Information Technology and Telecommunications 
+                                                 Direction of Software and Hardware Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		            Seminars:
+•	CISCO Student Day(Athens)
+•	Digital Marketing(Athens)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+WORK EXPERIENCE
+6/2015-9/2015	ACADEMY OF ATHENS. 	Athens, Greece     	  
+Network Management, IT support
+	(Internship)
+•	Managing and/or Maintain Database and Configuring Network
+•	IT Supporting Colleagues From Different Departments of Company
+•	Recreating the company’s site to be more user friendly
+•	Fixing and/or Repairing faulty equipment.
 
-# Header 1
-## Header 2
-### Header 3
+ 		
+LANGUAGE SKILLS
+•	Greek(Native)
+•	English(Fluent)
+•	Japanese(N4)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+PROFESSIONS
+•	Program Languages: SQL, Java-DB
+•	Data Bases: MATLAB, Java, C, C++, C#, JavaScript, PHP, HTML, Python
+•	Tools: Maven, SableCC, JavaCC, Java CUP, Flex, Eclipse, NetBeans
+•	Operating Systems: Ubuntu, Windows, MacOS, Android
+•	MS Office: Excel, Word, PowerPoint, Access
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thominho/thomask.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ACTIVITIES
+•	Football
+•	Swimming
+•	Running
+•	Listening to music
+•	Puzzle Games
