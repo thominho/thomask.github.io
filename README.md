@@ -1,16 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
 <style>
 img {
   border-radius: 50%;
 }
 </style>
-<img src="index.png" alt="Avatar">
+<img src="index.png" alt="Avatar" style="width:200px">
 <ul>
   <li>Thomas Kottas</li>
   <li>Alexandrou Soutsou 3, Kolonaki, Athens, 10671</li>
@@ -18,6 +12,3 @@ img {
 	<li>Telephone:<a href="tel:0030 6948858030">0030 6948858030</a>/li>
   <li>Birthday: 15/09/94</li>
 </ul> 
-
-</body>
-</html>
